@@ -16,7 +16,7 @@ const Header = () => {
 
           <div className="flex items-center gap-4">
             <ContactButton />
-            {/* <MobileMenu /> */}
+            <MobileMenu />
           </div>
         </div>
       </div>
